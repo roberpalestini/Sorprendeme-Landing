@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="229" height="229" viewBox="0 0 229 229">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #253585;
+      }
+
+      .cls-3 {
+        filter: url(#Elipse_73);
+      }
+    </style>
+    <filter id="Elipse_73" x="0" y="0" width="229" height="229" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_2538" data-name="Grupo 2538" transform="translate(-203 -1257)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 203, 1257)">
+      <circle id="Elipse_73-2" data-name="Elipse 73" class="cls-1" cx="39.5" cy="39.5" r="39.5" transform="translate(75 72)"/>
+    </g>
+    <path id="Icon_metro-search" data-name="Icon metro-search" class="cls-2" d="M32.463,28.179l-7.307-6.215A3.261,3.261,0,0,0,22.94,21,11.57,11.57,0,1,0,21.645,22.3a3.261,3.261,0,0,0,.962,2.216l6.215,7.307a2.592,2.592,0,1,0,3.641-3.641ZM14.139,21.208A7.712,7.712,0,1,1,21.851,13.5a7.712,7.712,0,0,1-7.712,7.712Z" transform="translate(300.581 1351.148)"/>
+  </g>
+</svg>
